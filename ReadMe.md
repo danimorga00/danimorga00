@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi! I am Daniele Morganti and i'm currently studying computer engineering at the university of Florence<br>I am particularly interested in embedded and real-time development
+Hi! I am Daniele Morganti and I'm currently studying computer engineering at the University of Florence.
+I am particularly interested in embedded and real-time development, with a focus on designing efficient, low-latency systems for IoT applications. I enjoy working on projects that combine hardware and software, and I'm continuously exploring ways to optimize performance in resource-constrained environments.
 
 
 ## 🌐 Socials:
